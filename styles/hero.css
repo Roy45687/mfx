@@ -1,0 +1,29 @@
+ /* Hero Section */
+ .hero {
+    background-color: #28a745;
+    color: white;
+    padding: 60px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.hero h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.hero button {
+    background-color: white;
+    color: #28a745;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}

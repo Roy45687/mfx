@@ -1,0 +1,25 @@
+ /* Header Section */
+ header {
+    background-color: #28a745;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+header input[type="search"] {
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #ddd;
+    width: 200px;
+    outline: none;
+    margin-top: 10px;
+}
+
+header input[type="search"]::placeholder {
+    color: #888;
+}

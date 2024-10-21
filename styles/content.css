@@ -1,0 +1,11 @@
+ /* Content Section */
+ .content {
+    margin-left: 240px;
+    padding: 30px;
+    margin-top: 80px;
+}
+
+
+.hero button:hover {
+    background-color: #f8f9fa;
+}

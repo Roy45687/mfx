@@ -1,0 +1,29 @@
+ /* Sidebar Section */
+ .sidebar {
+    width: 220px;
+    background-color: #1e7e34;
+    padding: 20px;
+    position: fixed;
+    top: 70px;
+    left: 0;
+    bottom: 0;
+    color: white;
+    transition: width 0.3s ease;
+}
+
+.sidebar h2 {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.sidebar a {
+    color: white;
+    display: block;
+    padding: 15px;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+.sidebar a:hover {
+    background-color: #155724;
+}
